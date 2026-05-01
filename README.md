@@ -8,14 +8,14 @@
 ## Установка
 ```bash
 # npm
-npm install --save-dev @amopro/widget-installer
+npm install --save-dev @widgets/widget-installer
 # or yarn
-yarn add --dev @amopro/widget-installer
+yarn add --dev @widgets/widget-installer
 ```
 
 ## Использование
 
-Вы можете посмотреть заготовку виджета в репозитории [amocrm-widget-starter-kit](https://github.com/max-kut/amocrm-widget-starter-kit)
+Вы можете посмотреть заготовку виджета в репозитории [amocrm-widget-starter-kit](https://github.com/pashakhorikov/amocrm-widget-starter-kit)
 
 
 ```javascript
